@@ -1,4 +1,4 @@
-# 美国地址生成器
+#美国地址生成器
 
 [English](./README_EN.md) | 简体中文
 
@@ -7,6 +7,13 @@
 
 ## 演示地址
 在线使用：https://usaddressgen.com
+
+## 预览
+### 桌面端
+![桌面端预览](us-address-generator-desktop-screenshot.jpeg)
+
+### 移动端
+![移动端预览](us-address-generator-mobile-screenshot.jpeg)
 
 ## 主要功能
 - 生成真实存在的美国地址（包含门牌号、街道、城市、州和邮编）
