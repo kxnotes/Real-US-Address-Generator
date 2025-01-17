@@ -9,6 +9,12 @@ This is an address generator based on Cloudflare Workers that generates real US 
 Website:
 https://usaddressgen.com
 
+## Preview
+### Desktop View
+![桌面端预览](us-address-generator-desktop-screenshot.jpeg)
+
+### Mobile View
+![移动端预览](us-address-generator-mobile-screenshot.jpeg)
 
 ## Features
 - Generates real US addresses (including house number, street, city, state, and ZIP code)
@@ -63,3 +69,6 @@ Added features compared to the original version:
 
 ## License
 MIT License
+
+## About
+This project is a fork of [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator).
