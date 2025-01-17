@@ -70,4 +70,4 @@
 MIT License
 
 ## 版权声明
-初代版本来自 chatgpt.org.uk，由 kxnotes 进行修改。
+原始项目： [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator).
